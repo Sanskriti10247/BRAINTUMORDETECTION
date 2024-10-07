@@ -1,0 +1,8 @@
+path: '/Users/Sanskriti/Desktop/brain-tumor'
+
+train: '/Users/Sanskriti/Desktop/brain-tumor/datasets/train/images'
+val: '/Users/Sanskriti/Desktop/brain-tumor/datasets/valid/images'
+
+names:
+  0: negative
+  1: positive
